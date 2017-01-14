@@ -1,0 +1,22 @@
+# OS generated files #
+######################
+.DS_Store*
+._.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
+~$*
+\#*\#
+*.autosave
+
+# Javascript #
+##############
+node_modules
+build
+
+# Configuration
+tv_grab_es_movistar.config
+
+# bytecode files
+tva.pyc
